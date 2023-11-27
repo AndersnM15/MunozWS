@@ -1,2 +1,11 @@
 # MunozWS
-Práctica Web Service
+
+## Implementación básico Web Service
+
+- Base de Datos
+
+```MariaDB
+create database ws;
+```
+
+
