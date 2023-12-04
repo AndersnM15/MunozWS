@@ -2,10 +2,11 @@
 
 ## Implementación básico Web Service
 
-- Base de Datos
-
-```MariaDB
-create database ws;
-```
+- Node.js
+- express
+- cros
+- Vite
+- JavaScript Vanilla
+  
 
 
